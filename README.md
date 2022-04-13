@@ -27,5 +27,5 @@ Coming soon...
 * If you have any issues with the displays, it can be useful to remove the resisters on the back of the displays. - Just Google 'Sevensegment display remove capacitors
 
 ## Wiring Diagram ##
-*Coming soon...*
+![](https://github.com/BzowK/BTTF-World-Clock/blob/main/Examples/Wiring-if-no-displays.jpg)
 
