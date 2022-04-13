@@ -3,6 +3,7 @@
 
 * Sets time via NTP (Middle Green row)
 * (In Development) iCal integration to set next meeting start time 
+	* *Not currently integrated, but will be added soon.*
 * Shows AM & PM For all timezones
 * WebSerial integration (View serial output via web interface)
 * ArduinoOTA (Flash wirelessly)
