@@ -8,7 +8,7 @@
 * ArduinoOTA (Flash wirelessly)
 * Power Save Option (Turn displays on and off at certain times)
 
-*Special thanks to victor7376 for his code & kindly helping troubleshooting a couple of issues* 
+*Special thanks to victor7376 for his code & kindly helping troubleshoot a couple of issues* 
 
 ## Hardware ##
 * [3D Printed files from Thingiverse](https://www.thingiverse.com/thing:2980120)
