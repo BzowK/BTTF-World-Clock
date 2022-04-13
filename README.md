@@ -21,7 +21,7 @@
 * Lots of wire :)
 
 ## Instructions ##
-Coming soon...
+*Coming soon...*
 
 
 ## Important Notes ##
