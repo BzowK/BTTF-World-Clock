@@ -8,6 +8,8 @@
 * ArduinoOTA (Flash wirelessly)
 * Power Save Option (Turn displays on and off at certain times)
 
+*Special thanks to victor7376 for his code & kindly helping troubleshooting a couple of issues* 
+
 ## Hardware ##
 * [3D Printed files from Thingiverse](https://www.thingiverse.com/thing:2980120)
 * [38 Pin ESP32 Dev Board](https://www.amazon.com/gp/product/B07QCP2451/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
